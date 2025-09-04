@@ -45,7 +45,6 @@ struct Stack
             cout << arr[top] << " Deleted " << endl;
             top--;
         }
-        // 30 20 10
     }
 
     void display()
